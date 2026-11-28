@@ -40,6 +40,13 @@ labels: **Zobrazení / Pohled**, **Kreslení / Kreslit**, **Kótování / Kóta*
 The translation is AI-assisted work by @Losminek, reviewed against Czech desktop and CAD UI
 conventions and an independent review pass; it has not yet been proofread by a native speaker.
 
+Russian has 2,274 catalog rows (counted 2026-11-28). The original catalog was contributed by
+@pechnikov2026-star; this update adds the remaining rows, Linux desktop, AppStream and MIME
+strings, and 15 later UI labels (the Array dialog, and the update and right-click option hints).
+Four `menu` entries are present. Wording corrections from @JaffarSk24 on #2296 are included.
+Native-speaker polish on the new rows is welcome.
+
+
 Korean has **1,235 rows**: 1,229 ordinary labels, four contextual menu headings, and
 two single-form count templates. It covers the union of the existing catalogs, including
 the Ukrainian reference, the current Czech catalog, Options, prompts, dialogs, and tooltips.
