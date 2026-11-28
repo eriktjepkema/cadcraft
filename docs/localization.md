@@ -33,8 +33,9 @@ dialogs, and the About window's controls. The command reference can be searched 
 command ID, English label, or translated label. A missing entry falls back to English and
 never fails a build; `cargo xtask i18n` (a step of `cargo xtask ci`) lists each language's.
 
-Czech has 1,215 catalog rows (counted 2026-10-24), covering the reference catalog and every marked UI
-literal when it landed, including Options. Four `menu` entries distinguish menu headings from object/command
+Czech has 1,672 catalog rows (counted 2026-11-28), including the Dimension Style Manager,
+dimension and text properties, unit formats and arrowheads, and 19 later strings for the Array
+dialog, the update and right-click option hints, the unsaved-changes prompt, and Unnamed. Four `menu` entries distinguish menu headings from object/command
 labels: **Zobrazení / Pohled**, **Kreslení / Kreslit**, **Kótování / Kóta**, and **Modifikace / Upravit**.
 The translation is AI-assisted work by @Losminek, reviewed against Czech desktop and CAD UI
 conventions and an independent review pass; it has not yet been proofread by a native speaker.
